@@ -1,1 +1,4 @@
-Saya baru belajar GIT
+Saya sudah paham belajar GIT
+
+
+saya menambahkan kalimat
